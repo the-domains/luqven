@@ -1,7 +1,7 @@
 name: Luqven
 favicon: null
-layout_spectrum: 0.6864056217018515
-typography_spectrum: 0.837146348785609
+layout_spectrum: 0.74833
+typography_spectrum: 0.84197
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.3044045907445252
+    - '#000000'
+    - '#0500f2'
+    - '#df0005'
+    - '#e1dad0'
+    - '#e100e0'
+  brandStrength: 0.5
   lightness: 0.49045521626248956
-  saturation: 0.04114615824073553
-  rhythmicContrast: 0.8458595676347613
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
